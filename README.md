@@ -12,7 +12,7 @@ You will need to install [Yarn](https://yarnpkg.com/) or [Npm](https://www.npmjs
 ## Setup
 1. Run `cd <your desired path>` to change into the directory where you want this app installed.
 2. Run `git clone <this repo> .` to clone this repo to you local machine.
-3. Run `yarn start` or `npm start`
+3. Run `yarn && yarn start` or `npm i && npm start`
 
 ## Test Installation
 Open up your web browser and go to http://localhost:3000. You should see the Autocomplete home screen come up.
